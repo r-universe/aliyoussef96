@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "vhcub"]
+	path = vhcub
+	url = https://github.com/aliyoussef96/vhcub
+	shallow = true
+	registered = true
